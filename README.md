@@ -1,1 +1,1 @@
-# Ductal-Carcinoma-Classification-Finetuning-CNN-
+# project for CNN
